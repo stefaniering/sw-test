@@ -1,1 +1,3 @@
-Beispielsweise können folgende Eigenschaften als Kriterien herangezogen werden:•	Größe des Gerätes selbst•	Bildschirmauflösung•	Orientierung (Hoch- oder Querformat)•	Eingabemöglichkeiten (Tastatur, Fingergeste (Touch), Sprache)
+Beispielsweise können folgende Eigenschaften als Kriterien herangezogen werden:•	Größe des Gerätes selbst•	Bildschirmauflösung•	Orientierung (Hoch- oder Querformat)•	Eingabemöglichkeiten (Tastatur, Fingergeste (Touch), Sprache)
+•	(Tastatur, Fingergeste (Touch), Sprache)
+
